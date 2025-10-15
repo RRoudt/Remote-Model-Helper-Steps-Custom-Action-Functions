@@ -2,7 +2,7 @@
 
 # Remote Model Helper Steps Custom Action Functions
 
-This repository hosts the code for the custom actions steps found in the [Remote Model Helper Steps](https://my.bettyblocks.com/block-store/blockId/) from the Betty Blocks block store.
+This repository hosts the code for the custom actions steps found in the [Remote Model Helper Steps](https://my.bettyblocks.com/block-store/5d08f9d6-5332-4553-8e86-61f527d6a085) from the Betty Blocks block store.
 
 ## This repository hosts the following steps:
 
